@@ -1,7 +1,7 @@
 import React from 'react';
 import "../TopMenu/topmenu.scss";
 
-const menu=['Home','Women','Men','Kids','About us','Contact'];
+const menu=['Home','Women','Men','About us','Contact'];
 
 function TopMenu() {
   return <div>
